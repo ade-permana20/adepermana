@@ -26,10 +26,10 @@ Currently based in **Kuningan, Jawa Barat, Indonesia**.
 
 ## 🌐 Portfolio Projects
 
-- [Responsive Portfolio Website](https://github.com/adekaneks/Ade-Permana)  
+- [Responsive Portfolio Website](https://github.com/ade-permana20/Ade-Permana)  
   A personal portfolio site built as a practice project to apply responsive design and front-end development techniques.
 
-- [Company Profile Website](https://github.com/adekaneks/daastech)  
+- [Company Profile Website](https://github.com/ade-permana20/daastech)  
   Clean and well-structured company profile website focusing on layout, responsiveness, and performance.
 
 ---
